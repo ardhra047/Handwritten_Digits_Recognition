@@ -93,6 +93,4 @@ CNN achieved the highest accuracy among all tested models by leveraging spatial 
 
 This project focuses on classifying handwritten digits using machine learning and deep learning techniques. After preprocessing the MNIST dataset, multiple models were applied and compared. CNN achieved the best performance due to its ability to capture spatial features, making it the most suitable model for image classification tasks.
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
